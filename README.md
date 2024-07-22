@@ -44,6 +44,8 @@
     * Created a column for profit, calculated as the difference between gross earnings and budget (gross - budget)
 3. Rating Category
     * Added rating category based on IMDb scores
+4. Decade 
+    * Added decade column to categorize the movie release years into respective decades
 
 ## Data Analysis
 
@@ -68,9 +70,10 @@
 
 3. Rating category and count: How many people give each rating?
     * Analyze the distribution of ratings and the number of people who give each rating.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f87147fe-d7c2-47d6-8f0f-230a3cc655f2" alt="title vs total" width="45%">
-  <img src="https://github.com/user-attachments/assets/fa6caa4c-9473-4cba-b671-ffc7118e529c" alt="Picture4" width="45%">
+  <img src="https://github.com/user-attachments/assets/feee7b02-4829-4941-92b8-2f547649741e" alt="category" width="45%">
+  <img src="https://github.com/user-attachments/assets/7220d06a-bcc8-4d92-bb04-c37f53b732c7" alt="Picture5" width="45%">
 </p>
 
 4. What are the top 10 movies with the highest profits?
@@ -82,11 +85,46 @@
 
 5. Compare profit and budget for the top 10 movies with the highest profits.
     * Analyze the relationship between the budget and profit for the top 10 most profitable movies.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f87147fe-d7c2-47d6-8f0f-230a3cc655f2" alt="title vs total" width="45%">
+  <img src="https://github.com/user-attachments/assets/fa6caa4c-9473-4cba-b671-ffc7118e529c" alt="Picture4" width="45%">
+</p>
+
 6. Top 10 directors with the highest IMDb scores. 
     * Identify the directors whose movies have the highest average IMDb scores.
-7. Most common 10 languages in the dataset.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/227b0cdf-ad4f-4b15-9759-3cb21be94209" alt="director" width="45%">
+  <img src="https://github.com/user-attachments/assets/ee4547ec-0091-4efe-927c-f9f7c2c345d7" alt="Picture6" width="45%">
+</p>
+
+7. Most common 5 languages in the dataset.
     * Determine which languages are most frequently represented in the dataset.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49c1437d-eacb-4a65-9332-510315057dde" alt="language count" width="45%">
+  <img src="https://github.com/user-attachments/assets/6b5fc0dd-d44a-4e12-beb4-3d5b27f50f55" alt="Picture7" width="45%">
+</p>
+
 8. Top 10 highest-scoring languages.    
     * Identify the languages that have the highest average movie scores.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/564dc15d-dbf0-4e39-9b74-eaf6e7fbca4e" alt="language score" width="45%">
+  <img src="https://github.com/user-attachments/assets/fe0174fa-83ef-436d-af94-3d004d830827" alt="Picture8" width="45%">
+</p>
+
 9. Top 10 actors with the highest average votes.
     * Find the actors whose movies receive the highest average number of votes.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18c48244-b9d1-4ead-a589-8c344fdcd6be)" alt="actor vote" width="45%">
+  <img src="https://github.com/user-attachments/assets/2e8c3586-4e06-41a1-8343-a8ada59859e0" alt="Picture9" width="45%">
+</p>
+
+10. See the number of movies created in each decade.
+    * Count of movies produced in each decade.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/500feb72-831a-44bc-a755-3346718cb2fa)" alt="decade" width="45%">
+  <img src="https://github.com/user-attachments/assets/64a31341-5098-48c9-bcb2-c8372e3104d7" alt="Picture10" width="45%">
+</p>
