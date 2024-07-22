@@ -117,7 +117,7 @@
 9. Top 10 actors with the highest average votes.
     * Find the actors whose movies receive the highest average number of votes.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18c48244-b9d1-4ead-a589-8c344fdcd6be)" alt="actor vote" width="45%">
+  <img src="https://github.com/user-attachments/assets/19436a7e-d5b6-4120-9d47-cfbd756e607c" alt="actor vote" width="45%">
   <img src="https://github.com/user-attachments/assets/2e8c3586-4e06-41a1-8343-a8ada59859e0" alt="Picture9" width="45%">
 </p>
 
@@ -125,6 +125,6 @@
     * Count of movies produced in each decade.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/500feb72-831a-44bc-a755-3346718cb2fa)" alt="decade" width="45%">
+  <img src="https://github.com/user-attachments/assets/de60bc4e-6127-4c85-b089-6f4810c6dfc1" alt="decade" width="45%">
   <img src="https://github.com/user-attachments/assets/64a31341-5098-48c9-bcb2-c8372e3104d7" alt="Picture10" width="45%">
 </p>
