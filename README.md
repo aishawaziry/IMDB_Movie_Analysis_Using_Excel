@@ -57,8 +57,8 @@
 1. What are the most common genres associated with the most votes?
     * Identify the genres that receive the highest number of votes from viewers.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f57beaf8-5063-405b-9509-6b9d25bb048e" alt="genre vs vote" width="45%">
-  <img src="https://github.com/user-attachments/assets/627d6a5f-802a-485a-bd39-b700376436b4" alt="Picture1" width="45%">
+  <img src="https://github.com/user-attachments/assets/a4d6292c-8847-4263-beb1-2415f21ae60c" alt="genre vs vote" width="45%">
+  <img src="https://github.com/user-attachments/assets/82b9cc98-078a-492a-b658-3aa9ca45c7cf" alt="Picture1" width="45%">
 </p>
 
 2. What are the highest-ranking genres?
