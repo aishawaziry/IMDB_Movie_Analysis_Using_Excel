@@ -49,6 +49,9 @@
 
 ### In this section, we will analyze the IMDb dataset to uncover insights and answer key questions.
 ### Key Questions and Insights
+
+- - - -
+
 1. What are the most common genres associated with the most votes?
     * Identify the genres that receive the highest number of votes from viewers.
 <p align="center">
@@ -58,10 +61,25 @@
 
 2. What are the highest-ranking genres?
     * Determine which genres have the highest average ratings.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8e977cd-5278-4289-abfb-0ea41d8e3615" alt="genre vs score" width="45%">
+  <img src="https://github.com/user-attachments/assets/41c59227-45aa-461e-9499-968cf7c8d2d5" alt="Picture2" width="45%">
+</p>
+
 3. Rating category and count: How many people give each rating?
     * Analyze the distribution of ratings and the number of people who give each rating.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f87147fe-d7c2-47d6-8f0f-230a3cc655f2" alt="title vs total" width="45%">
+  <img src="https://github.com/user-attachments/assets/fa6caa4c-9473-4cba-b671-ffc7118e529c" alt="Picture4" width="45%">
+</p>
+
 4. What are the top 10 movies with the highest profits?
     * List the movies that have generated the highest profits. 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba23c903-ea38-4005-a437-97b0f6f5bf09" alt="title vs profit" width="45%">
+  <img src="https://github.com/user-attachments/assets/512e1942-206d-4155-ace6-485cd1c38efb" alt="Picture3" width="45%">
+</p>
+
 5. Compare profit and budget for the top 10 movies with the highest profits.
     * Analyze the relationship between the budget and profit for the top 10 most profitable movies.
 6. Top 10 directors with the highest IMDb scores. 
