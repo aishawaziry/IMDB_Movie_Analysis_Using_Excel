@@ -94,7 +94,7 @@
     * Identify the directors whose movies have the highest average IMDb scores.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3faa1b7-c0a6-4791-a570-d51f130f691d" alt="director" width="45%">
+  <img src="https://github.com/user-attachments/assets/2bd6366b-9df4-4b28-a920-15637940bf80" alt="director" width="45%">
   <img src="https://github.com/user-attachments/assets/922d2826-104d-485e-988d-128166d1ea73" alt="Picture6" width="45%">
 </p>
 
@@ -117,15 +117,15 @@
 9. Top 10 actors with the highest average votes.
     * Find the actors whose movies receive the highest average number of votes.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/336befdd-9064-4455-8b85-15c7b263ee71" alt="actor vote" width="45%">
   <img src="https://github.com/user-attachments/assets/b7a41b62-9f78-4452-a908-da00ba482c48" alt="Picture9" width="45%">
+  <img src="https://github.com/user-attachments/assets/336befdd-9064-4455-8b85-15c7b263ee71" alt="actor vote" width="45%">
 </p>
 
 10. See the number of movies created in each decade.
     * Count of movies produced in each decade.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5af244ae-325d-455e-a0fd-78d7256a9b3e" alt="decade" width="45%">
+  <img src="https://github.com/user-attachments/assets/5af244ae-325d-455e-a0fd-78d7256a9b3e" alt="decade" width="45%" height="50%">
   <img src="https://github.com/user-attachments/assets/078addbd-0886-4b6b-aaf1-341c81edee70" alt="Picture10" width="45%">
 </p>
 
