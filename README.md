@@ -125,7 +125,7 @@
     * Count of movies produced in each decade.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5af244ae-325d-455e-a0fd-78d7256a9b3e" alt="decade" width="45%" height="50%">
+  <img src="https://github.com/user-attachments/assets/5af244ae-325d-455e-a0fd-78d7256a9b3e" alt="decade" width="45%" height="70%">
   <img src="https://github.com/user-attachments/assets/078addbd-0886-4b6b-aaf1-341c81edee70" alt="Picture10" width="45%">
 </p>
 
