@@ -39,13 +39,13 @@
 
 ## Derived Columns
 1. Number of Genres
-    * Added a column representing the number of genres each movie has
+    * Added a column representing the number of genres each movie has.
 2. Profit
-    * Created a column for profit, calculated as the difference between gross earnings and budget (gross - budget)
+    * Created a column for profit, calculated as the difference between gross earnings and budget (gross - budget).
 3. Rating Category
-    * Added rating category based on IMDb scores
+    * Added rating category based on IMDb scores.
 4. Decade 
-    * Added decade column to categorize the movie release years into respective decades
+    * Added decade column to categorize the movie release years into respective decades.
 
 ## Data Analysis
 
@@ -57,74 +57,85 @@
 1. What are the most common genres associated with the most votes?
     * Identify the genres that receive the highest number of votes from viewers.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4d6292c-8847-4263-beb1-2415f21ae60c" alt="genre vs vote" width="45%">
-  <img src="https://github.com/user-attachments/assets/82b9cc98-078a-492a-b658-3aa9ca45c7cf" alt="Picture1" width="45%">
+  <img src="https://github.com/user-attachments/assets/f5e112d3-0eda-4348-a4ec-a52ae8a695dd" alt="genre vs vote" width="45%">
+  <img src="https://github.com/user-attachments/assets/de736fab-84cd-48cd-994e-f2b877dc10f8" alt="Picture1" width="45%">
 </p>
 
 2. What are the highest-ranking genres?
     * Determine which genres have the highest average ratings.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8e977cd-5278-4289-abfb-0ea41d8e3615" alt="genre vs score" width="45%">
-  <img src="https://github.com/user-attachments/assets/41c59227-45aa-461e-9499-968cf7c8d2d5" alt="Picture2" width="45%">
+  <img src="https://github.com/user-attachments/assets/b0edebce-6e2c-40d0-a910-b3b19be03360" alt="genre vs score" width="45%">
+  <img src="https://github.com/user-attachments/assets/ab9d90b8-e14f-4885-82d6-e5872864da8e" alt="Picture2" width="45%">
 </p>
 
 3. Rating category and count: How many people give each rating?
     * Analyze the distribution of ratings and the number of people who give each rating.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/feee7b02-4829-4941-92b8-2f547649741e" alt="category" width="45%">
-  <img src="https://github.com/user-attachments/assets/7220d06a-bcc8-4d92-bb04-c37f53b732c7" alt="Picture5" width="45%">
+  <img src="https://github.com/user-attachments/assets/a2cfbde9-b543-4426-8e40-9779c34c9b3e" alt="category" width="45%">
+  <img src="https://github.com/user-attachments/assets/ec3b5567-bcc2-42c4-abf7-8496d89c2cd7" alt="Picture5" width="45%">
 </p>
 
 4. What are the top 10 movies with the highest profits?
     * List the movies that have generated the highest profits. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba23c903-ea38-4005-a437-97b0f6f5bf09" alt="title vs profit" width="45%">
+  <img src="https://github.com/user-attachments/assets/c83383dd-d4f4-4e8a-8717-236f4c5001f4" alt="title vs profit" width="45%">
   <img src="https://github.com/user-attachments/assets/512e1942-206d-4155-ace6-485cd1c38efb" alt="Picture3" width="45%">
 </p>
 
 5. Compare profit and budget for the top 10 movies with the highest profits.
     * Analyze the relationship between the budget and profit for the top 10 most profitable movies.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f87147fe-d7c2-47d6-8f0f-230a3cc655f2" alt="title vs total" width="45%">
-  <img src="https://github.com/user-attachments/assets/fa6caa4c-9473-4cba-b671-ffc7118e529c" alt="Picture4" width="45%">
+  <img src="https://github.com/user-attachments/assets/0d280a05-5088-4a35-84eb-6c7cb99b9dfa" alt="title vs total" width="45%">
+  <img src="https://github.com/user-attachments/assets/5988f44b-2cbf-45df-ba0f-34765e0b3647" alt="Picture4" width="45%">
 </p>
 
 6. Top 10 directors with the highest IMDb scores. 
     * Identify the directors whose movies have the highest average IMDb scores.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/227b0cdf-ad4f-4b15-9759-3cb21be94209" alt="director" width="45%">
-  <img src="https://github.com/user-attachments/assets/ee4547ec-0091-4efe-927c-f9f7c2c345d7" alt="Picture6" width="45%">
+  <img src="https://github.com/user-attachments/assets/f3faa1b7-c0a6-4791-a570-d51f130f691d" alt="director" width="45%">
+  <img src="https://github.com/user-attachments/assets/922d2826-104d-485e-988d-128166d1ea73" alt="Picture6" width="45%">
 </p>
 
 7. Most common 5 languages in the dataset.
     * Determine which languages are most frequently represented in the dataset.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49c1437d-eacb-4a65-9332-510315057dde" alt="language count" width="45%">
-  <img src="https://github.com/user-attachments/assets/6b5fc0dd-d44a-4e12-beb4-3d5b27f50f55" alt="Picture7" width="45%">
+  <img src="https://github.com/user-attachments/assets/e227ecd4-e6e1-4617-9b6f-74aafcfd73d2" alt="language count" width="45%">
+  <img src="https://github.com/user-attachments/assets/a246d00e-3e5d-4727-a194-93dd6c487e52" alt="Picture7" width="45%">
 </p>
 
 8. Top 10 highest-scoring languages.    
     * Identify the languages that have the highest average movie scores.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/564dc15d-dbf0-4e39-9b74-eaf6e7fbca4e" alt="language score" width="45%">
-  <img src="https://github.com/user-attachments/assets/fe0174fa-83ef-436d-af94-3d004d830827" alt="Picture8" width="45%">
+  <img src="https://github.com/user-attachments/assets/c788218e-f827-441e-8d12-bfa3a55fba28" alt="language score" width="45%">
+  <img src="https://github.com/user-attachments/assets/ca3a9f90-e21f-4362-a116-f3254de0a563" alt="Picture8" width="45%">
 </p>
 
 9. Top 10 actors with the highest average votes.
     * Find the actors whose movies receive the highest average number of votes.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19436a7e-d5b6-4120-9d47-cfbd756e607c" alt="actor vote" width="45%">
-  <img src="https://github.com/user-attachments/assets/2e8c3586-4e06-41a1-8343-a8ada59859e0" alt="Picture9" width="45%">
+  <img src="https://github.com/user-attachments/assets/336befdd-9064-4455-8b85-15c7b263ee71" alt="actor vote" width="45%">
+  <img src="https://github.com/user-attachments/assets/b7a41b62-9f78-4452-a908-da00ba482c48" alt="Picture9" width="45%">
 </p>
 
 10. See the number of movies created in each decade.
     * Count of movies produced in each decade.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de60bc4e-6127-4c85-b089-6f4810c6dfc1" alt="decade" width="45%">
-  <img src="https://github.com/user-attachments/assets/64a31341-5098-48c9-bcb2-c8372e3104d7" alt="Picture10" width="45%">
+  <img src="https://github.com/user-attachments/assets/5af244ae-325d-455e-a0fd-78d7256a9b3e" alt="decade" width="45%">
+  <img src="https://github.com/user-attachments/assets/078addbd-0886-4b6b-aaf1-341c81edee70" alt="Picture10" width="45%">
 </p>
+
+
+## Dashboard Analysis
+#### This dashboard presents a comprehensive visual analysis of the IMDb dataset, allowing for interactive exploration of key insights.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ba20bd62-388c-48f6-be5e-62acca968494https://github.com/user-attachments/assets/ba20bd62-388c-48f6-be5e-62acca968494">
+</p>
+
+## Conclusion 
+#### This project aims to analyze the provided dataset, revealing several meaningful insights that would have been challenging to uncover through manual exploration. By using data analysis and visualization tools, we can efficiently extract and understand critical patterns and trends within the IMDb dataset.
